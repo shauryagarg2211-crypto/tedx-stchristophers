@@ -4,20 +4,20 @@ import { motion } from "motion/react";
 
 const teamMembers = [
   {
-    name: "Name One",
+    name: "Aritro Ghosh",
     role: "Lead Organizer",
   },
   {
-    name: "Name Two",
+    name: "Alan Hassan",
     role: "Co-Organizer",
   },
   {
-    name: "Name Three",
+    name: "Shaurya Garg",
     role: "Design & Media",
   },
   {
-    name: "Name Four",
-    role: "Operations",
+    name: "Sonya Lee",
+    role: "Curation",
   },
 ];
 
