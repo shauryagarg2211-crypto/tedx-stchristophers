@@ -119,7 +119,7 @@ export default function Speakers() {
                     className="relative min-w-0 overflow-hidden"
                   >
                     <Image
-                      src={image}
+                      src={`/tedx-stchristophers${image}`}
                       alt={
                         speaker.images.length > 1
                           ? `Portrait of ${
