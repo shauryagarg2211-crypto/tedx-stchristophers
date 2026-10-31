@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import RegisterBanner from "@/components/RegisterBanner";
+import Countdown from "@/components/Countdown";
 import Hero from "@/components/Hero";
 import Theme from "@/components/Theme";
 import Speakers from "@/components/Speakers";
@@ -14,6 +15,7 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white">
       <Navbar />
       <RegisterBanner />
+      <Countdown />
       <Hero />
       <Theme />
       <Speakers />
