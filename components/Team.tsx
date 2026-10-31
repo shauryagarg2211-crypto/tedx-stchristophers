@@ -13,7 +13,7 @@ const teamMembers = [
   },
   {
     name: "Shaurya Garg",
-    role: "Design & Media",
+    role: "Technology Leader",
   },
   {
     name: "Sonya Lee",
