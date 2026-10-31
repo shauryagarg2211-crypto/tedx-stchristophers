@@ -55,7 +55,7 @@ const speakers = [
   },
   {
   name: "Daksh Garg",
-  year: "Year 13",
+  year: "Year 11",
   images: ["/pictures/dg.png"],
   topic: "The Power of Vulnerability",
   description:
