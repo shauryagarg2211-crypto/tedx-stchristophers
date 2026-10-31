@@ -17,7 +17,7 @@ const faqs = [
   {
     question: "When and where will the event take place?",
     answer:
-      "The event will take place at St Christopher's School Hall in the Junior School. The confirmed event date and timings will be announced soon.",
+      "The event will take place at The Catalyst Lecture Theatre in the Junior School. The confirmed event date and timings will be announced soon.",
   },
   {
     question: "How can I register?",
