@@ -56,7 +56,7 @@ const speakers = [
   {
   name: "Daksh Garg",
   year: "Year 13",
-  images: ["/pictures/daksh.png"],
+  images: ["/pictures/dg.png"],
   topic: "The Power of Vulnerability",
   description:
     "Exploring how embracing vulnerability can help us build meaningful connections, develop courage, and find strength in being ourselves.",
