@@ -53,6 +53,16 @@ const speakers = [
       "In an era dominated by instant gratification and automated convenience, the relentless pursuit of efficiency may actually be working against human well-being. This talk challenges the modern economic assumption that friction is merely an obstacle to be eliminated.",
     funFact: "I'm a bit of a cinephile.",
   },
+  {
+  name: "Daksh Garg",
+  year: "Year 13",
+  images: ["/pictures/daksh.png"],
+  topic: "The Power of Vulnerability",
+  description:
+    "Exploring how embracing vulnerability can help us build meaningful connections, develop courage, and find strength in being ourselves.",
+  funFact:
+    "I can recite every US state and its capital in under 2 minutes.",
+  },
 ];
 
 export default function Speakers() {
