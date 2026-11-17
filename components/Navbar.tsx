@@ -1,3 +1,4 @@
+
 "use client";
 
 import { AnimatePresence, motion } from "motion/react";
@@ -23,27 +24,38 @@ export default function Navbar() {
 
         {/* Desktop navigation */}
         <div className="hidden gap-8 text-sm md:flex">
-          <a href="#theme" className="transition-colors hover:text-red-500">
+          <a
+            href="#theme"
+            className="transition-colors hover:text-red-500"
+          >
             Theme
           </a>
 
-          <a href="#speakers" className="transition-colors hover:text-red-500">
+          <a
+            href="#speakers"
+            className="transition-colors hover:text-red-500"
+          >
             Speakers
           </a>
 
-          <a href="#event" className="transition-colors hover:text-red-500">
+          <a
+            href="#event"
+            className="transition-colors hover:text-red-500"
+          >
             Event
           </a>
 
-          <a href="#experience" className="transition-colors hover:text-red-500">
-            Experience
-          </a>
-
-          <a href="#team" className="transition-colors hover:text-red-500">
+          <a
+            href="#team"
+            className="transition-colors hover:text-red-500"
+          >
             Team
           </a>
 
-          <a href="#faq" className="transition-colors hover:text-red-500">
+          <a
+            href="#faq"
+            className="transition-colors hover:text-red-500"
+          >
             FAQ
           </a>
         </div>
@@ -114,14 +126,6 @@ export default function Navbar() {
                 className="border-b border-white/10 py-5 text-2xl font-medium transition-colors hover:text-red-500"
               >
                 Event
-              </a>
-
-              <a
-                href="#experience"
-                onClick={closeMenu}
-                className="border-b border-white/10 py-5 text-2xl font-medium transition-colors hover:text-red-500"
-              >
-                Experience
               </a>
 
               <a
