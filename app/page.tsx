@@ -1,3 +1,4 @@
+
 import Navbar from "@/components/Navbar";
 import RegisterBanner from "@/components/RegisterBanner";
 import Countdown from "@/components/Countdown";
@@ -6,7 +7,6 @@ import Theme from "@/components/Theme";
 import Speakers from "@/components/Speakers";
 import Event from "@/components/Event";
 import Team from "@/components/Team";
-import Experience from "@/components/Experience";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
 
@@ -20,7 +20,6 @@ export default function Home() {
       <Theme />
       <Speakers />
       <Event />
-      <Experience />
       <Team />
       <FAQ />
       <Footer />
