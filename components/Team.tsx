@@ -1,3 +1,4 @@
+
 "use client";
 
 import { motion } from "motion/react";
@@ -18,6 +19,22 @@ const teamMembers = [
   {
     name: "Sonya Lee",
     role: "Curation",
+  },
+  {
+    name: "Salma Ali",
+    role: "Organising Team",
+  },
+  {
+    name: "Sakeena Rizvi",
+    role: "Marketing",
+  },
+  {
+    name: "Zaara Farooqui",
+    role: "Marketing",
+  },
+  {
+    name: "Divit Purohit",
+    role: "Organising Team",
   },
 ];
 
@@ -106,3 +123,4 @@ export default function Team() {
     </section>
   );
 }
+
