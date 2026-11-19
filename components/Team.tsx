@@ -22,7 +22,7 @@ const teamMembers = [
   },
   {
     name: "Salma Ali",
-    role: "Organising Team",
+    role: "Curation",
   },
   {
     name: "Sakeena Rizvi",
